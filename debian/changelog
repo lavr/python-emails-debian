@@ -1,3 +1,9 @@
+python-emails (0.1.10-ppa1~raring) raring; urgency=low
+
+  * version 0.1.10
+
+ -- Sergey Lavrinenko <s@lavr.me>  Sun, 18 Aug 2013 18:44:25 +0400
+
 python-emails (0.1.9-ppa1~precise) precise; urgency=low
 
   * source package automatically created by stdeb
@@ -10,7 +16,7 @@ python-emails (0.1.9-ppa1~lucid) lucid; urgency=low
 
  -- Sergey Lavrinenko <s@lavr.me>  Sun, 18 Aug 2013 18:44:25 +0400
  
-python-emails (0.1.9-ppa1~raring) raring ; urgency=low
+python-emails (0.1.9-ppa1~raring) raring; urgency=low
 
   * source package automatically created by stdeb
 

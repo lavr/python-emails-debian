@@ -4,7 +4,7 @@
 
 DPKGSIG_KEYID=B47640B7
 export DPKGSIG_KEYID
-EMAILS_VERSION=0.1.9
+EMAILS_VERSION=0.1.10
 
 deb:
 	# don't forget to apt-get install debhelper python-support build-essential checkinstall devscripts

@@ -1,0 +1,17 @@
+emails (0.1.10-ppa3~raring) raring; urgency=low
+
+  * more package update
+
+ -- Sergey Lavrinenko <s@lavr.me>  Tue, 20 Aug 2013 01:45:15 +0400
+
+emails (0.1.10-ppa2~raring) raring; urgency=low
+
+  * package updated
+
+ -- Sergey Lavrinenko <s@lavr.me>  Tue, 20 Aug 2013 01:16:29 +0400
+
+emails (0.1.10-ppa1~raring) raring; urgency=low
+
+  * source package automatically created by stdeb 0.6.0
+
+ -- Sergey Lavrinenko <s@lavr.me>  Mon, 19 Aug 2013 20:29:25 +0400

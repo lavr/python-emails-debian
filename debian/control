@@ -1,0 +1,36 @@
+Source: emails
+Maintainer: Sergey Lavrinenko <s@lavr.me>
+Section: python
+Priority: optional
+Build-Depends: 
+ debhelper (>= 7.3.16), 
+ python3-all,
+ python-all,
+ python3-setuptools, 
+ python-setuptools,
+ python-support (>= 0.8.4) 
+Standards-Version: 3.9.3
+X-Python3-Version: 3.3
+X-Python-Version: >= 2.6
+
+Package: python-emails
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}, 
+ python-cssutils, 
+ python-lxml, 
+ python-chardet,
+ python-dateutil, 
+ python-requests
+Provides: ${python:Provides}
+Description: Elegant and simple email library for python3
+
+Package: python3-emails
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}, 
+ python3-cssutils, 
+ python3-lxml, 
+ python3-chardet,
+ python3-dateutil, 
+ python3-requests
+Provides: ${python3:Provides}
+Description: Elegant and simple email library for python3

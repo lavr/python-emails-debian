@@ -1,8 +1,50 @@
+python-emails (0.1.10-ppa1~saucy) saucy; urgency=low
+
+  * version 0.1.10 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Mon, 19 Aug 2013 13:50:52 +0400
+
+python-emails (0.1.10-ppa1~quantal) quantal; urgency=low
+
+  * version 0.1.10 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Mon, 19 Aug 2013 13:50:31 +0400
+
+python-emails (0.1.10-ppa1~oneiric) oneiric; urgency=low
+
+  * version 0.1.10 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Mon, 19 Aug 2013 13:50:11 +0400
+
+python-emails (0.1.10-ppa1~natty) natty; urgency=low
+
+  * version 0.1.10 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Mon, 19 Aug 2013 13:49:59 +0400
+
+python-emails (0.1.10-ppa1~maverick) maverick; urgency=low
+
+  * version 0.1.10 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Mon, 19 Aug 2013 13:49:19 +0400
+
 python-emails (0.1.10-ppa1~raring) raring; urgency=low
 
-  * version 0.1.10
+  * version 0.1.10 
 
- -- Sergey Lavrinenko <s@lavr.me>  Sun, 18 Aug 2013 18:44:25 +0400
+ -- Sergey Lavrinenko <s@lavr.me>  Mon, 19 Aug 2013 13:44:29 +0400
+
+python-emails (0.1.10-ppa1~precise) precise; urgency=low
+
+  * version 0.1.10 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Mon, 19 Aug 2013 13:44:00 +0400
+
+python-emails (0.1.10-ppa1~lucid) lucid; urgency=low
+
+  * version 0.1.10 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Mon, 19 Aug 2013 13:41:03 +0400
 
 python-emails (0.1.9-ppa1~precise) precise; urgency=low
 

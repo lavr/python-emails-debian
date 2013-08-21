@@ -22,7 +22,7 @@ Depends: ${misc:Depends}, ${python:Depends},
  python-dateutil, 
  python-requests
 Provides: ${python:Provides}
-Description: Elegant and simple email library for python3
+Description: Elegant and simple email library for python
 
 Package: python3-emails
 Architecture: all

@@ -5,8 +5,8 @@
 #DPKGSIG_KEYID=B47640B7
 #export DPKGSIG_KEYID
 
-EMAILS_VERSION=0.1.10
-PPA_VERSION=5
+EMAILS_VERSION=0.1.11
+PPA_VERSION=1
 
 usage:
 	echo "Usage: make clean|deb|upload"

@@ -1,3 +1,27 @@
+emails (0.1.11-ppa1~saucy) saucy; urgency=low
+
+  * v0.1.11 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Wed, 21 Aug 2013 12:29:37 +0400
+
+emails (0.1.11-ppa1~quantal) quantal; urgency=low
+
+  * v0.1.11 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Wed, 21 Aug 2013 12:29:26 +0400
+
+emails (0.1.11-ppa1~precise) precise; urgency=low
+
+  * v0.1.11 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Wed, 21 Aug 2013 12:29:13 +0400
+
+emails (0.1.11-ppa1~lucid) lucid; urgency=low
+
+  * v0.1.11 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Wed, 21 Aug 2013 12:28:26 +0400
+
 emails (0.1.10-ppa4~saucy) saucy; urgency=low
 
   * update package for saucy 

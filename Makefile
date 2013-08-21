@@ -5,8 +5,8 @@
 #DPKGSIG_KEYID=B47640B7
 #export DPKGSIG_KEYID
 
-EMAILS_VERSION=0.1.10
-PPA_VERSION=4
+EMAILS_VERSION=0.1.11
+PPA_VERSION=1
 
 usage:
 	echo "Usage: make clean|deb|upload"
@@ -21,7 +21,7 @@ deb:
 	# maverick - obsolte
 	# natty - obsolete
 	# supported: lucid precise quantal raring saucy
-	for D in lucid precise quantal saucy; do \
+	for D in precise quantal saucy; do \
 		echo `pwd`; \
                 dch -M -b -v ${EMAILS_VERSION}-ppa${PPA_VERSION}~$$D --distribution $$D --package emails; \
 		cp -r debian emails-${EMAILS_VERSION}; \

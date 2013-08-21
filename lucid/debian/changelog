@@ -1,4 +1,10 @@
-emails (0.1.10-ppa6~lucid) lucid; urgency=low
+emails (0.1.11-ppa1~lucid) lucid; urgency=low
+
+  * v0.1.11 
+
+ -- Sergey Lavrinenko <s@lavr.me>  Wed, 21 Aug 2013 12:42:59 +0400
+
+emails (0.1.10-ppa7~lucid) lucid; urgency=low
 
   * update package for lucid 
 
